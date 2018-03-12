@@ -1,0 +1,9 @@
+{
+    "sample_width" : 1,
+    "unsigned" : false,
+    "channels" : 1,
+    "rate" : 8000,
+    "chunk" : 512,
+    "device_index" : 0,
+    "duration": -1
+}
