@@ -23,4 +23,12 @@ with open('aconfig.json') as f:
 
 def get_count():
     return int(rate / chunk * duration)
-  
+
+if __name__ == '__main__':
+    print("sample_width: " + str(sample_width))
+    print("unsigned:     " + str(unsigned))
+    print("channels:     " + str(channels))
+    print("rate:         " + str(rate))
+    print("chunk:        " + str(chunk))
+    print("device_index: " + str(chunk))
+    print("duration:     " + str(duration))
