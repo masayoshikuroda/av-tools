@@ -47,7 +47,9 @@ $ python aread.py | python alevel.py
 $ python aread.py | python afft.py
 ```
 
-## aingo.py
+## ainfo.py
+
+WAF ファイルの上表を表示する
 
 ```
 $ python ainfo.py output.wav
