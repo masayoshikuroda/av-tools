@@ -46,3 +46,9 @@ $ python aread.py | python alevel.py
 ```
 $ python aread.py | python afft.py
 ```
+
+## aingo.py
+
+```
+$ python ainfo.py output.wav
+```
